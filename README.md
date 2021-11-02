@@ -21,7 +21,7 @@ https://www.inpandora.com/adobe-zii-v3-0-4-adobe-cc.html
 https://xclient.info/s/adobe-zii.html
 
 
-MAC software 
+MAC software  
 https://www.isharepc.com/
 
 https://www.inpandora.com/
