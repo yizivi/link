@@ -1,21 +1,27 @@
-iGG https://www.iggzs.com
+iGG 
+https://www.iggzs.com
 
-Crx download https://chrome.zzzmh.cn https://www.cxyhub.com/
+Crx download 
+https://chrome.zzzmh.cn https://www.cxyhub.com/
 
-Noteboard http://noteboardapp.com/yizivi
+Noteboard 
+http://noteboardapp.com/yizivi
 
-download Mac OS https://support.apple.com/zh-cn/HT211683
 
-Baidu Wangpan https://kinhdown.kinh.cc//
+download Mac OS 
+https://support.apple.com/zh-cn/HT211683
+
+Baidu Wangpan 
+https://kinhdown.kinh.cc//
+
 
 Adbbe Zii
-
 https://www.inpandora.com/adobe-zii-v3-0-4-adobe-cc.html
 
 https://xclient.info/s/adobe-zii.html
 
-MAC software
 
+MAC software
 https://www.isharepc.com/
 
 https://www.inpandora.com/
