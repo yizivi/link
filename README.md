@@ -15,7 +15,7 @@ Baidu Wangpan
 https://kinhdown.kinh.cc//
 
 
-Adbbe Zii 
+Adbbe Zii   
 https://www.inpandora.com/adobe-zii-v3-0-4-adobe-cc.html
 
 https://xclient.info/s/adobe-zii.html
