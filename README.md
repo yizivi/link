@@ -27,3 +27,8 @@ https://www.isharepc.com/
 https://www.inpandora.com/
 
 https://xclient.info/
+
+https://macwk.com/
+
+KSA
+https://ksa.kanxue.com/index-down.htm
