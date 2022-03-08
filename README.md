@@ -34,6 +34,6 @@ KSA
 https://ksa.kanxue.com/index-down.htm
 
 mail     
-https://elasticemail.com/
+https://elasticemail.com/     
 https://www.mailgun.com/
 
