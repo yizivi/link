@@ -2,7 +2,8 @@ iGG
 https://www.iggzs.com
 
 Crx download  
-https://chrome.zzzmh.cn https://www.cxyhub.com/
+https://chrome.zzzmh.cn  
+https://www.cxyhub.com/
 
 Noteboard  
 http://noteboardapp.com/yizivi
