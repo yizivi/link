@@ -1,4 +1,4 @@
-Chrome   多用户离线安装包
+Chrome多用户离线安装包    
 https://www.google.cn/chrome/thank-you.html?standalone=1&system=true&statcb=1&installdataindex=empty&defaultbrowser=0
 
 Crx download  
