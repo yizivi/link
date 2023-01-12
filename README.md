@@ -1,6 +1,7 @@
 Chrome多用户离线安装包    
 https://www.google.cn/chrome/thank-you.html?standalone=1&system=true&statcb=1&installdataindex=empty&defaultbrowser=0
 
+
 Crx download  
 https://chrome.zzzmh.cn  
 https://www.cxyhub.com/
@@ -34,7 +35,7 @@ https://macwk.com/
 KSA      
 https://ksa.kanxue.com/index-down.htm
 
-mail     
+Mail     
 https://elasticemail.com/     
 https://www.mailgun.com/
 
@@ -44,3 +45,8 @@ https://cloud.tencent.com/developer/article/1843176
 https://www.starwindsoftware.com/tmplink/starwindconverter.exe  
 https://learn.microsoft.com/en-us/sysinternals/downloads/disk2vhd 
 
+
+KMS相关    
+https://kms.cx/
+https://www.coolhub.top/tech-articles/kms_list.html
+https://otp.landian.vip/zh-cn/
