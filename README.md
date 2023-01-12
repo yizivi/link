@@ -47,6 +47,6 @@ https://learn.microsoft.com/en-us/sysinternals/downloads/disk2vhd
 
 
 KMS相关    
-https://kms.cx/
-https://www.coolhub.top/tech-articles/kms_list.html
-https://otp.landian.vip/zh-cn/
+https://kms.cx/    
+https://www.coolhub.top/tech-articles/kms_list.html    
+https://otp.landian.vip/zh-cn/    
