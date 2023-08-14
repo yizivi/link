@@ -69,9 +69,9 @@ chrome各种版本介绍和下载
 https://zhuanlan.zhihu.com/p/106914701
 
 chrome历史版本下载    
-https://www.chromedownloads.net/
+https://www.chromedownloads.net/    
 https://www.slimjet.com/chrome/google-chrome-old-version.php
 
 Firefox历史版本下载    
-https://ftp.mozilla.org/pub/firefox/releases/
+https://ftp.mozilla.org/pub/firefox/releases/    
 https://www.423down.com/2469.html
