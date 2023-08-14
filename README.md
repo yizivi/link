@@ -50,6 +50,9 @@ https://kms.cx/
 https://www.coolhub.top/tech-articles/kms_list.html    
 https://otp.landian.vip/zh-cn/    
 
+https://moe.best/kms.html　   
+https://blog.03k.org/post/kms.html        
+
 chrome各种版本介绍和下载        
 https://zhuanlan.zhihu.com/p/106914701
 
