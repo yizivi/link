@@ -11,14 +11,11 @@ http://noteboardapp.com/yizivi
 
 
 download Mac OS  
-https://support.apple.com/zh-cn/HT211683
-
-Baidu Wangpan  
-https://kinhdown.kinh.cc//
+https://support.apple.com/zh-cn/HT211683     
 
 
 Adbbe Zii   
-https://www.inpandora.com/adobe-zii-v3-0-4-adobe-cc.html
+https://www.inpandora.com/991     
 
 https://xclient.info/s/adobe-zii.html
 
@@ -65,7 +62,7 @@ https://ftp.mozilla.org/pub/firefox/releases/
 https://www.423down.com/2469.html
 
 XP    
-chrome 支持xp vista 最后一个版本 49.0.2623.112
+chrome 支持xp vista 最后一个版本 49.0.2623.112    
 Firefox 支持xp vista 最后一个版本52.90 ESR     
 
 win7    
