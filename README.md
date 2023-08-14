@@ -50,6 +50,17 @@ https://kms.cx/
 https://www.coolhub.top/tech-articles/kms_list.html    
 https://otp.landian.vip/zh-cn/    
 
+chrome各种版本介绍和下载        
+https://zhuanlan.zhihu.com/p/106914701
+
+chrome历史版本下载     
+https://www.chromedownloads.net/    
+https://www.slimjet.com/chrome/google-chrome-old-version.php
+
+Firefox历史版本下载     
+https://ftp.mozilla.org/pub/firefox/releases/    
+https://www.423down.com/2469.html
+
 XP    
 chrome 支持xp vista 最后一个版本 49.0.2623.112
 
@@ -65,13 +76,3 @@ Chrome 中出现的最后一个支持 Flash Player 的版本是 87.0.4280.141。
 但是这些配置 Flash Player 都相当麻烦，不推荐使用。个人更推荐使用 87.0.4270.0 的版本
 firefox：支持flash最后一个版本是84
 
-chrome各种版本介绍和下载    
-https://zhuanlan.zhihu.com/p/106914701
-
-chrome历史版本下载    
-https://www.chromedownloads.net/    
-https://www.slimjet.com/chrome/google-chrome-old-version.php
-
-Firefox历史版本下载    
-https://ftp.mozilla.org/pub/firefox/releases/    
-https://www.423down.com/2469.html
