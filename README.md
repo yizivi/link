@@ -63,6 +63,7 @@ https://www.423down.com/2469.html
 
 XP    
 chrome 支持xp vista 最后一个版本 49.0.2623.112
+Firefox 支持xp vista 最后一个版本52.90 ESR     
 
 win7    
 
