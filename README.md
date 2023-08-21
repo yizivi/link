@@ -75,7 +75,7 @@ Firefox 支持xp vista 最后一个版本52.90 ESR
 
 win7    
 
-chrome 支持win7最后一个版本v109.0.5414.120
+chrome 支持win7最后一个版本v109.0.5414.120    
 https://zhuanlan.zhihu.com/p/644494272
 
 firefox支持win7最后一个版本Firefox 115.0.3
