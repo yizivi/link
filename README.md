@@ -50,7 +50,15 @@ https://otp.landian.vip/zh-cn/
 https://moe.best/kms.html　   
 https://blog.03k.org/post/kms.html        
 
-chrome各种版本介绍和下载        
+官网GVLK连接    
+Windows/Server    
+https://learn.microsoft.com/zh-cn/windows-server/get-started/kms-client-activation-keys#generic-volume-license-keys-gvlk    
+office2010    
+https://learn.microsoft.com/zh-cn/previous-versions/office/office-2010/ee624355(v=office.14)?redirectedfrom=MSDN    
+office2016/2019/2021    
+https://learn.microsoft.com/zh-cn/DeployOffice/vlactivation/gvlks?redirectedfrom=MSDN     
+
+chrome各种版本介绍和下载         
 https://zhuanlan.zhihu.com/p/106914701
 
 chrome历史版本下载     
