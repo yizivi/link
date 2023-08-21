@@ -41,6 +41,17 @@ https://cloud.tencent.com/developer/article/1843176
 https://www.starwindsoftware.com/tmplink/starwindconverter.exe  
 https://learn.microsoft.com/en-us/sysinternals/downloads/disk2vhd 
 
+HWID硬件ID激活    
+Method 1 - PowerShell (Recommended)    
+On Windows 8.1/10/11, right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).    
+Copy-paste the below code and press enter    
+irm https://massgrave.dev/get | iex    
+Method 2 - Traditional    
+Download the file from    
+https://ghproxy.com/https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip    
+Run the file named MAS_AIO.cmd    
+
+https://github.com/massgravel/Microsoft-Activation-Scripts    
 
 KMS相关    
 https://kms.cx/    
