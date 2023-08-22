@@ -56,7 +56,7 @@ https://kms.cx/
 https://www.coolhub.top/tech-articles/kms_list.html    
 https://otp.landian.vip/zh-cn/    
 
-https://moe.best/kms
+https://moe.best/kms  
 https://blog.03k.org/post/kms.html        
 
 官网GVLK连接    
