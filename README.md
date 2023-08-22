@@ -43,11 +43,9 @@ https://learn.microsoft.com/en-us/sysinternals/downloads/disk2vhd
 
 HWID硬件ID激活    
 Method 1 - PowerShell (Recommended)    
-On Windows 8.1/10/11, right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).    
-Copy-paste the below code and press enter    
+On Windows 8.1/10/11, Run PowerShell or Terminal (Not CMD).    
 irm https://massgrave.dev/get | iex    
-Method 2 - Traditional    
-Download the file from    
+Method 2 - Traditional，Download the file from    
 https://ghproxy.com/https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip    
 Run the file named MAS_AIO.cmd    
 
@@ -58,7 +56,7 @@ https://kms.cx/
 https://www.coolhub.top/tech-articles/kms_list.html    
 https://otp.landian.vip/zh-cn/    
 
-https://moe.best/kms.html  
+https://moe.best/kms
 https://blog.03k.org/post/kms.html        
 
 官网GVLK连接    
