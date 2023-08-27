@@ -1,19 +1,18 @@
 SoftCnKiller流氓软件黑名单  
 https://gitcode.net/hfhbutn/SoftCnKiller  
 
-Chrome多用户离线安装包    
-https://www.google.cn/chrome/thank-you.html?standalone=1&system=true&statcb=1&installdataindex=empty&defaultbrowser=0
+LKY Office Tools  
+https://github.com/OdysseusYuan/LKY_OfficeTools/releases  
 
 李跳跳    
 https://ghproxy.com/https://github.com/eddlez/litiaotiao_package_backup/blob/main/%E6%9D%8E%E8%B7%B3%E8%B7%B32.2%E6%AD%A3%E5%BC%8F%E7%89%88.apk    
 
+Chrome多用户离线安装包    
+https://www.google.cn/chrome/thank-you.html?standalone=1&system=true&statcb=1&installdataindex=empty&defaultbrowser=0  
+
 Crx download  
 https://chrome.zzzmh.cn  
-https://www.cxyhub.com/
-
-Noteboard  
-http://noteboardapp.com/yizivi
-
+https://www.cxyhub.com/  
 
 download Mac OS  
 https://support.apple.com/zh-cn/HT211683     
@@ -47,8 +46,7 @@ https://www.starwindsoftware.com/tmplink/starwindconverter.exe
 https://learn.microsoft.com/en-us/sysinternals/downloads/disk2vhd 
 
 HWID硬件ID激活    
-方法 1 - PowerShell (推荐)    
-Windows 8.1/10/11, 运行 PowerShell 或 Terminal (不是 CMD).    
+方法 1 - PowerShell (推荐)    Windows 8.1/10/11, 运行 PowerShell 或 Terminal (不是 CMD).    
 irm https://massgrave.dev/get | iex    
 方法 2 - 下载文件    
 https://ghproxy.com/https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip    
