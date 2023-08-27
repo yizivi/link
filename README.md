@@ -1,3 +1,6 @@
+SoftCnKiller流氓软件黑名单  
+https://gitcode.net/hfhbutn/SoftCnKiller  
+
 Chrome多用户离线安装包    
 https://www.google.cn/chrome/thank-you.html?standalone=1&system=true&statcb=1&installdataindex=empty&defaultbrowser=0
 
