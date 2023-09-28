@@ -70,6 +70,9 @@ https://learn.microsoft.com/zh-cn/previous-versions/office/office-2010/ee624355(
 office2016/2019/2021    
 https://learn.microsoft.com/zh-cn/DeployOffice/vlactivation/gvlks?redirectedfrom=MSDN     
 
+永久激活OFFICE2013-2021/OFFICE365(不支持windows7)    
+https://github.com/asdcorp/ohook/releases    
+
 chrome各种版本介绍和下载         
 https://zhuanlan.zhihu.com/p/106914701
 
