@@ -89,6 +89,12 @@ Firefox历史版本下载
 https://ftp.mozilla.org/pub/firefox/releases/    
 https://www.423down.com/2469.html
 
+Firefox国际版本下载
+https://www.mozilla.org/en-US/firefox/all/#product-desktop-release
+
+Firefox第三方拓展下载
+https://www.crxsoso.com/firefox/category/extensions
+
 XP    
 chrome 支持xp vista 最后一个版本 49.0.2623.112    
 Firefox 支持xp vista 最后一个版本52.90 ESR     
