@@ -1,11 +1,15 @@
 SoftCnKiller流氓软件黑名单  
 https://gitcode.net/hfhbutn/SoftCnKiller  
 
+GKD自定义屏幕点击应用  
+https://gkd.li/guide/    
+https://github.com/gkd-kit/gkd  
+
+GKD自定义屏幕点击应用自定义规则
+https://github.com/Adpro-Team/GKD_THS_List/blob/main/importUrlsList.md    
+
 李跳跳    
 https://mirror.ghproxy.com/https://github.com/eddlez/litiaotiao_package_backup/blob/main/%E6%9D%8E%E8%B7%B3%E8%B7%B32.2%E6%AD%A3%E5%BC%8F%E7%89%88.apk    
-
-GKD自定义屏幕点击应用  
-https://github.com/gkd-kit/gkd  
 
 LKY Office Tools  
 https://github.com/OdysseusYuan/LKY_OfficeTools/releases  
