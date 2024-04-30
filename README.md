@@ -5,7 +5,7 @@ GKD自定义屏幕点击应用
 https://gkd.li/guide/    
 https://github.com/gkd-kit/gkd  
 
-GKD自定义屏幕点击应用自定义规则
+GKD自定义屏幕点击应用自定义规则  
 https://github.com/Adpro-Team/GKD_THS_List/blob/main/importUrlsList.md    
 
 李跳跳    
