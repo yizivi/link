@@ -55,40 +55,4 @@ https://cloud.tencent.com/developer/article/1843176
 https://www.starwindsoftware.com/tmplink/starwindconverter.exe  
 https://learn.microsoft.com/en-us/sysinternals/downloads/disk2vhd 
 
-win10  
-slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX  
-slmgr /skms kms.03k.org  
-slmgr /ato  
-
-KMS相关    
-https://kms.cx/    
-https://www.coolhub.top/tech-articles/kms_list.html    
-https://otp.landian.vip/zh-cn/    
-
-https://moe.best/kms  
-https://blog.03k.org/post/kms.html        
-
-官网GVLK连接    
-Windows/Server    
-https://learn.microsoft.com/zh-cn/windows-server/get-started/kms-client-activation-keys#generic-volume-license-keys-gvlk    
-office2010    
-https://learn.microsoft.com/zh-cn/previous-versions/office/office-2010/ee624355(v=office.14)?redirectedfrom=MSDN    
-office2016/2019/2021    
-https://learn.microsoft.com/zh-cn/DeployOffice/vlactivation/gvlks?redirectedfrom=MSDN     
  
-HWID硬件ID激活    
-方法 1 - PowerShell (推荐)    Windows 8.1/10/11, 运行 PowerShell 或 Terminal (不是 CMD).    
-irm https://massgrave.dev/get | iex    
-方法 2 - 下载文件    
-https://mirror.ghproxy.com/https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip    
-运行 MAS_AIO.cmd  
-
-https://github.com/massgravel/Microsoft-Activation-Scripts  
-
-
-
-flash    
-Chrome 中出现的最后一个支持 Flash Player 的版本是 87.0.4280.141。
-但是这些配置 Flash Player 都相当麻烦，不推荐使用。个人更推荐使用 87.0.4270.0 的版本
-firefox：支持flash最后一个版本是84
-
