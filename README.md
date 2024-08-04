@@ -13,8 +13,7 @@ https://gitcode.net/hfhbutn/SoftCnKiller
 
 【云南师范大学】    
 https://it.ynnu.edu.cn/info/1146/2421.htm    (有一年或两年日期限制)    
-
-https://www.123pan.com/s/VzVA-murbd    提取码:9neD  (合集下载)    
+https://www.123pan.com/s/VzVA-murbd    提取码:9neD  (合集下载)   
 
 LKY Office Tools  
 https://github.com/OdysseusYuan/LKY_OfficeTools/releases  
