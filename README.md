@@ -10,6 +10,7 @@ https://gh-proxy.com/https://github.com/eddlez/litiaotiao_package_backup/blob/ma
 
 SoftCnKiller流氓软件黑名单  
 https://gitcode.net/hfhbutn/SoftCnKiller
+https://www.winapps.cc/softcnkiller.html    
 
 WPS       
 https://www.123pan.com/s/VzVA-murbd    提取码:9neD  (合集下载)   
