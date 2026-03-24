@@ -22,8 +22,10 @@ https://learn.microsoft.com/zh-cn/DeployOffice/vlactivation/gvlks?redirectedfrom
 HWID硬件ID激活    
 方法 1 - PowerShell (推荐)    Windows 8.1/10/11, 运行 PowerShell 或 Terminal (不是 CMD).    
 irm https://get.activated.win | iex
-方法 2 - 下载文件    
-https://mirror.ghproxy.com/https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip    
-运行 MAS_AIO.cmd  
 
+方法 2 - 下载文件    
+https://dev.azure.com/massgrave/Microsoft-Activation-Scripts/_apis/git/repositories/Microsoft-Activation-Scripts/items?path=/MAS/All-In-One-Version-KL/MAS_AIO.cmd&download=true    
+https://dev.azure.com/massgrave/Microsoft-Activation-Scripts/_apis/git/repositories/Microsoft-Activation-Scripts/items?$format=zip 
+
+https://massgrave.dev/
 https://github.com/massgravel/Microsoft-Activation-Scripts 
